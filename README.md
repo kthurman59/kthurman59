@@ -8,7 +8,7 @@ Results-oriented Software Engineer with a unique blend of technical proficiency 
 
 * 🌍  I'm based in St. Louis
 * ✉️  You can contact me at [kthurman59@gmail.com](mailto:kthurman59@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Astro
 * 🧠  I'm learning Linux
 * 🤝  I'm open to collaborating on anything interesting
 * ⚡  I also really love Linux
