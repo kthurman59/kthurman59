@@ -8,10 +8,12 @@ Results-oriented Software Engineer with a unique blend of technical proficiency 
 
 * 🌍  I'm based in St. Louis
 * ✉️  You can contact me at [kthurman59@gmail.com](mailto:kthurman59@gmail.com)
-* 🧠  I'm learning Astro
-* 🧠  I'm learning Linux
-* 🤝  I'm open to collaborating on anything interesting
+* 🧠  I'm learning Go
+* 🧠  I'm learning kernel hacking
+* 🤝  I'm open to collaborating
+* 🤝  I'm currently collaborating on the St. Louis Coffee and Chat chapter website
 * ⚡  I also really love Linux
+* ⚡  Currently Reading "Thinking Recursively" By Eric S. Roberts
 
 ### Skills
 
