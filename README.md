@@ -11,7 +11,7 @@ Results-oriented Software Engineer with a unique blend of technical proficiency 
 * 🧠  I'm learning Python and Go
 * 🧠  I can work in MERN (MongoDB, Express, React, Node), Python.  I am able to learn any other stack fast.
 * 🤝  I love to collaborate
-* ⚡  I also really love Linux
+* ⚡  I also really love Linux (running Arch Linux, BTW :)  )
 * ⚡  Currently Reading "Thinking Recursively" By Eric S. Roberts, " Into to Algortihms 4th edition" (this is the one most CS courses use), and "Classic Computer Science problems in Python".
 
 ### Skills
